@@ -1,2 +1,3 @@
-word
-wallo
+const app = Vue.createApp {
+    
+}
